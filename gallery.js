@@ -27,7 +27,7 @@ function upDate(previewPic){
         document.getElementById('image').innerHTML= text;
     }
 
-}
+
 
 
 
